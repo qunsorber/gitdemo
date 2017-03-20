@@ -1,4 +1,5 @@
 a = 1
+b = 1
 print a 
 # I went back to change 1
 
